@@ -1,5 +1,5 @@
 # Lab1 - Вариант 2
-### Задания 1 и 2 были выполнены
+## Заданиe 1
 * Вывод задания 1.2:  
 ![image](https://github.com/last-shadow-I/DL_2023/assets/91950488/3be84739-e7f9-43e5-a1b3-891d9151345f)
 * Вывод задания 1.6:  
@@ -9,6 +9,7 @@
 * Вывод задания 1.9:  
 ![image](https://github.com/last-shadow-I/DL_2023/assets/91950488/839e4c4e-730c-476b-926f-f7bbfd782be7)
 
+## Заданиe 2
 * Вывод задания 2.2-3:  
 ![image](https://github.com/last-shadow-I/DL_2023/assets/91950488/20765d29-6cf4-4ccf-8b9d-bf2d7d40bde7)
 * Вывод задания 2.5:  
