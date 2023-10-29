@@ -1,4 +1,8 @@
 # Lab3 - датасет MNIST  
+### Файлы, в которых описаны функции и классы
+* DL_Lab3.ipynb
+* layers.py
+* optim.py
 ### 1) Полносвязная нейронная сеть ( Fully-Connected Neural Network)
 * Для полносвязного слоя реализуйте прямой проход  
 ![image](https://github.com/last-shadow-I/DL_2023/assets/91950488/21e45191-527e-4db7-84cb-64da59e45a22)
