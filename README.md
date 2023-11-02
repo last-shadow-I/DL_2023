@@ -9,4 +9,5 @@
       2) Нормализация по мини-батчам (Batch normalization)  
       3) Dropout  
       4) Сверточные нейронные сети (Convolutional Networks)  
-- [ ] L4 - 
+- [X] L4 - MNIST  
+      Tensorflow 2.x
